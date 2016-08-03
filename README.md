@@ -1,2 +1,2 @@
 # Cpp_Programs
-A set of basic, essentials, unique C++ programs for beginners and enthusiasts.
+A set of basic, essentials and unique C++ programs for beginners and enthusiasts.
